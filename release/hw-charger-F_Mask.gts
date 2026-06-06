@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,9.0.1+1*
-G04 #@! TF.CreationDate,2026-04-03T19:29:56+00:00*
+G04 #@! TF.CreationDate,2026-06-06T21:04:34+00:00*
 G04 #@! TF.ProjectId,hw-charger,68772d63-6861-4726-9765-722e6b696361,v0.1.0*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.1+1) date 2026-04-03 19:29:56*
+G04 Created by KiCad (PCBNEW 9.0.1+1) date 2026-06-06 21:04:34*
 %MOMM*%
 %LPD*%
 G01*
